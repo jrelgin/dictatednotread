@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Jason Elgin
 tagline: Product Design
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/family.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
