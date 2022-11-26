@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "The online home of Jason Elgin",
     "siteUrl": "https://jrelgin.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "image": "/assets/sl-negative.png",
+    "iconimage": "/assets/sl-negative.png",
     "twitterUsername": "@jrelgin"
   },
   "ga": "UA-XXXXXXXXX-X"
